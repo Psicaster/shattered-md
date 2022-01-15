@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "949b02f1121b09bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8932b8a6ebf49250",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Gods/Clerics/Threadwalker.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "134676fc07401d08",
+        "type": "split",
+        "children": [
+          {
+            "id": "c1827b4635e31d2a",
+            "type": "leaf",
+            "dimension": 61.852589641434264,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gods/Clerics/Threadwalker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4583c3b0de213c8f",
+            "type": "leaf",
+            "dimension": 38.147410358565736,
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ef606ed4deefe7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "940fde7d0203a861",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8d656f312ba60eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef7f4c8913700f3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ef17fee8fe8b12b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc9e9978681a3b0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9deaf95ec4234ec1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4583c3b0de213c8f",
+  "lastOpenFiles": [
+    "Gods/Clerics/Threadwalker.md",
+    "Gods/Clerics/Truthseeker.md",
+    "Spells/Cleric/Ritual of Sewn Silence.md",
+    "Gods/The Weaver.md",
+    "Gods/The Blind.md",
+    "Spells/Cleric/Level 6/Hero's Feast.md",
+    "Hero's Feast.md",
+    "Gods/The Fool.md",
+    "Gods/The Traveler.md",
+    "Gods/The Tempest.md"
+  ]
+}
