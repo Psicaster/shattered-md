@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4ca5c52e354fa50c",
+        "id": "703b017f971fba52",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -48,12 +48,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "1509bf59d2eff710",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8ef17fee8fe8b12b",
@@ -79,6 +88,18 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "d0d046ab8f553ce1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Righold.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
@@ -87,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4ca5c52e354fa50c",
+  "active": "703b017f971fba52",
   "lastOpenFiles": [
     "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Righold.md",
-    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Harbors/Duskpoint Harbor.md",
-    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Harbors/Blackmoss Piers.md",
-    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Equipment and Sundries/Rockford & Sons Smithy.md",
-    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Equipment and Sundries/Blacktail Locksmiths.md",
-    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Equipment and Sundries/Molly's Bakes.md",
-    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Trade Goods/Righold General Goods and Trade.md",
-    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Trade Goods/Bjorgrim's Bulk.md",
-    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Trade Goods/Forgotten Furnishings.md",
-    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Taverns and Inns/Mermaid Inn.md"
+    "Locations/Regions/Worldhaven/Worldhaven.md",
+    "Gods/Clerics/Cleric Abilities/Mother's Hand.md",
+    "Gods/Clerics/Truthseeker.md",
+    "Gods/Clerics/Threadwalker.md",
+    "Gods/Clerics/Stormsoother.md",
+    "Gods/Clerics/Corpsespeaker.md",
+    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/People/Molly.md",
+    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/People/Rockford.md",
+    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Harbors/Duskpoint Harbor.md"
   ]
 }
