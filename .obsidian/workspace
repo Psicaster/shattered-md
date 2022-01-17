@@ -4,23 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8932b8a6ebf49250",
+        "id": "4ca5c52e354fa50c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Hythiel Alliance/Hythiel Alliance.md",
+            "file": "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Righold.md",
             "mode": "source",
             "source": false
           }
-        }
-      },
-      {
-        "id": "4583c3b0de213c8f",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
         }
       }
     ],
@@ -77,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Hythiel Alliance/Hythiel Alliance.md",
+                "file": "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Righold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8932b8a6ebf49250",
+  "active": "4ca5c52e354fa50c",
   "lastOpenFiles": [
-    "Locations/Hythiel Alliance/Hythiel Alliance.md",
-    "Locations/Archerian Empire/Righold.md",
-    "Locations/Draknir Foundry/Draknir Foundry.md",
-    "Locations/Archerian Empire/Archerian Empire.md",
-    "Locations/Draknir Foundry/Kagwohr.md",
-    "Locations/Archerian Empire/Quanhel Point.md",
-    "Locations/The World.md",
-    "Locations/Righold 1.md",
-    "Locations/Ancients/Quixigandyl.md",
-    "Locations/Draknir Foundry/Bharn Ulihm.md"
+    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Righold.md",
+    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Harbors/Duskpoint Harbor.md",
+    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Harbors/Blackmoss Piers.md",
+    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Equipment and Sundries/Rockford & Sons Smithy.md",
+    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Equipment and Sundries/Blacktail Locksmiths.md",
+    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Equipment and Sundries/Molly's Bakes.md",
+    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Trade Goods/Righold General Goods and Trade.md",
+    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Trade Goods/Bjorgrim's Bulk.md",
+    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Trade Goods/Forgotten Furnishings.md",
+    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Taverns and Inns/Mermaid Inn.md"
   ]
 }

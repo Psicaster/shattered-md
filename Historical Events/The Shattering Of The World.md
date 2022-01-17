@@ -1,0 +1,1 @@
+An event where [[The Gods]] saw fit to destroy much of the world. No one is truly sure why.

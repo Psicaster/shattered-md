@@ -1,0 +1,1 @@
+At level 3, [[Musewalker|Musewalkers]] gain the ability to cast [[Alter Self]] 1/day. They gain +1/day for every 3 cleric levels they obtain. (2/day at 6, 3/day at 9, etc. To a maximum of 5/day at level 15).

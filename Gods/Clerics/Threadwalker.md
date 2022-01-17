@@ -9,7 +9,7 @@ Threadwalkers gain the following abilities:
 - Threadwalkers can channel the power of [[The Weaver]] to Turn or Rebuke undead
 - Threadwalkers can perform a  [[Ritual of Sewn Silence]] to bind others to secrecy in matters they deem important. (See spell description)
 - At Third level, the Threadwalker begins to unlock the secrets of the Arcane, and can begin memorizing and casting Wizard spells as a wizard three levels lower than their current wizard level (Minimum 1)
-- At 7th level the Threadwalker can cast [[Zone of Truth]], [[Detect Lie]] and [[Detect Magic]] each 2/day. These abilities are used in the Threadwalker's line of duty to uncover secrets.
+- At 7th level the Threadwalker can cast [[Zone of Truth]], [[Detect Lie]] and [[Spells/Cleric/Level 1/Detect Magic]] each 2/day. These abilities are used in the Threadwalker's line of duty to uncover secrets.
 -    If the Threadwalker wishes to progress to Level 9, they must give up something important to them. Some give up their voice or vision, others their sanity, some even give all their secrets.
 	- In exchange for this price, the Threadwalker is granted a bonus rank in Spellcrafting, Gemcutting, Ancient History, Ancient Languages and Astronomy. 
 	- The Threadwalker is also granted 25% resistance to Psionic attacks. This roll is made before any saves. If successful, the Threadwalker is also able to discern the location and nature of the attacker.
@@ -26,7 +26,7 @@ Threadwalkers gain the following abilities:
 -   [[Command]]
 -   [[Cure Light Wounds]]
 -   [[Detect Evil]]
--   [[Detect Magic]]
+-   [[Spells/Cleric/Level 1/Detect Magic]]
 -   [[Detect Poison]]
 -   [[Detect Snares & Pits]]
 -   [[Dispel Fatigue]]
@@ -40,3 +40,100 @@ Threadwalkers gain the following abilities:
 -   [[Speak with Astral Traveler]]
 -   [[Spectral Senses]]
 -   [[Undead Alacrity]]
+
+##### Level 2
+-   [[Aid]]
+- [[Augury]]
+- [[Detect Charm]]
+- [[Draw Upon Holy Might]]
+- [[Enthrall]]
+- [[Find Traps]]
+- [[Hear Heartbeat]]
+- [[Hold Person]]
+- [[Know Alignment]]
+- [[Resist Turning]]
+- [[Sanctify]]
+- [[Slow Poison]]
+- [[Speak With Animals]]
+- [[Music of the Spheres]]
+- [[Mystic Transfer]]
+
+
+##### Level 3
+* [[Animate Dead]]
+* [[Astral Window]]
+* [[Create Food & Water]]
+* [[Cure Blindness or Deafness]]
+* [[Cure Disease]]
+* [[Death's Door]]
+* [[Detect Spirits]]
+* [[Dictate]]
+* [[Emotion Control]]
+* [[Extradimensional Detection]]
+* [[Feign Death]]
+* [[Hold Poison]]
+* [[Life Drain]]
+* [[Locate Object]]
+* [[Negative Plane Protection]]
+* [[Repair injury]]
+* [[Speak With Dead]]
+* [[Spirit Bind]]
+* [[Summon Animal Spirit]]
+
+##### Level 4
+* [[Abjure]]
+* [[Addition]]
+* [[Animal Summoning I]]
+* [[Call Woodland Beings]]
+* [[Detect Lie]]
+* [[Divination]]
+* [[Focus]]
+* [[Join With Astral Traveler]]
+* [[Tongues]]
+* [[Omnicient Eye]]
+* [[Reflecting Pool]]
+ [[Uplift]]
+##### Level 5
+
+-   [[Animal Summoning II]]
+- [[Attonement]]
+- [[Blessed Abundance]]
+- [[Commune]]
+- [[Commune With Nature]]
+- [[Consequence]]
+- [[Dimensional Translocation]]
+- [[Dispel Evil]]
+- [[Magic Font]]
+- [[Plane Shift]]
+- [[Thoughtwave]]
+- [[True Seeing]]
+
+##### Level 6
+
+- [[Aerial Servant]]
+- [[Animal Summoning III]]
+- [[Animate Object]]
+- [[Blade Barrier]]
+- [[Conjure Animals]]
+- [[Find the Path]]
+- [[Hero's Feast]]
+- [[Speak With Monsters]]
+- [[Stone Tell]]
+- [[Wall of Thorns]]
+- [[Word of Recall]]
+- [[Summon Undead]]
+
+##### Level 7
+
+* [[Astral Spell]]
+* [[Changestaff]]
+* [[Chariot of Sustarre]]
+* [[Conjure Earth Elemental]]
+* [[Creeping Doom]]
+* [[Exaction]]
+* [[Gate]]
+* [[Succor]]
+* [[Divine Inspiration]]
+* [[Mind Tracker]]
+* [[Spirit of Power]]
+* [[Death Pact]]
