@@ -6,14 +6,14 @@ Many, if not most, believe that the  [[The Weaver|Weaver's Cloth]] is the holy s
 
 ### Class Features
 Threadwalkers gain the following abilities:
-- Threadwalkers can channel the power of [[The Weaver]] to Turn or Rebuke undead
+- [[Threadbare Channeling]]: Threadwalkers can channel the power of [[The Weaver]] to Turn or Rebuke undead
 - Threadwalkers can perform a  [[Ritual of Sewn Silence]] to bind others to secrecy in matters they deem important. (See spell description)
-- At Third level, the Threadwalker begins to unlock the secrets of the Arcane, and can begin memorizing and casting Wizard spells as a wizard three levels lower than their current wizard level (Minimum 1)
-- At 7th level the Threadwalker can cast [[Zone of Truth]], [[Detect Lie]] and [[Spells/Cleric/Level 1/Detect Magic]] each 2/day. These abilities are used in the Threadwalker's line of duty to uncover secrets.
--    If the Threadwalker wishes to progress to Level 9, they must give up something important to them. Some give up their voice or vision, others their sanity, some even give all their secrets.
+- [[Woven Secrets]]: At Third level, the Threadwalker begins to unlock the secrets of the Arcane, and can begin memorizing and casting Wizard spells as a wizard three levels lower than their current wizard level (Minimum 1)
+- [[Loom of Secrets]]: At 7th level the Threadwalker can cast [[Zone of Truth]], [[Detect Lie]] and [[Detect Magic]] each 2/day. These abilities are used in the Threadwalker's line of duty to uncover secrets.
+- [[Threadwalker's Sacrifice]]: If the Threadwalker wishes to progress to Level 9, they must give up something important to them. Some give up their voice or vision, others their sanity, some even give all their secrets.
 	- In exchange for this price, the Threadwalker is granted a bonus rank in Spellcrafting, Gemcutting, Ancient History, Ancient Languages and Astronomy. 
 	- The Threadwalker is also granted 25% resistance to Psionic attacks. This roll is made before any saves. If successful, the Threadwalker is also able to discern the location and nature of the attacker.
-- At 12th level, the Threadwalker is granted powers based on what they have given up to [[The Weaver]]. For example, if the Threadwalker gave up his sight, he may be granted a permenent boon of [[True Seeing]]. This is something the DM and the player must discuss, as the nature of the boon is often personal to the character.
+- [[The Weaver's Will]]: At 12th level, the Threadwalker is granted powers based on what they have given up to [[The Weaver]]. For example, if the Threadwalker gave up his sight, he may be granted a permenent boon of [[True Seeing]]. This is something the DM and the player must discuss, as the nature of the boon is often personal to the character.
 
 ***
 ### Domain Spells

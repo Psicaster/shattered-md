@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "703b017f971fba52",
+        "id": "1fe8c3ce2a99c5eb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Righold.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -61,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8ef17fee8fe8b12b",
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Righold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Righold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "703b017f971fba52",
+  "active": "1fe8c3ce2a99c5eb",
   "lastOpenFiles": [
-    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Righold.md",
-    "Locations/Regions/Worldhaven/Worldhaven.md",
-    "Gods/Clerics/Cleric Abilities/Mother's Hand.md",
-    "Gods/Clerics/Truthseeker.md",
-    "Gods/Clerics/Threadwalker.md",
-    "Gods/Clerics/Stormsoother.md",
-    "Gods/Clerics/Corpsespeaker.md",
-    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/People/Molly.md",
-    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/People/Rockford.md",
-    "Locations/Regions/Worldhaven/Archerian Empire/Cities and Towns/Righold/Harbors/Duskpoint Harbor.md"
+    "Gods/Clerics/Cleric Abilities/Turn Undead.md",
+    "Gods/Clerics/Cleric Abilities/Woven Secrets.md",
+    "Gods/Clerics/Cleric Abilities/Threadwalker's Sacrifice.md",
+    "Gods/Clerics/Cleric Abilities/Threadbare Channeling.md",
+    "Gods/Clerics/Cleric Abilities/The Weaver's Will.md",
+    "Gods/Clerics/Cleric Abilities/Sounds of The Muse.md",
+    "Gods/Clerics/Cleric Abilities/Soul of the Trickster.md",
+    "Gods/Clerics/Cleric Abilities/Path of The Faithful.md",
+    "Gods/Clerics/Cleric Abilities/Loom of Secrets.md",
+    "Gods/Clerics/Cleric Abilities/Innocent Laughter.md"
   ]
 }

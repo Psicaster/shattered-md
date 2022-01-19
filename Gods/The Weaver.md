@@ -13,7 +13,7 @@ Weaver's Cloth is a small raw silk cloth, about 3in by 3in that has been blessed
 Though anyone can -- and often do -- pray to The Weaver. People often ask her to grant them wisdom in exchange for small secrets like who a schoolgirl has a crush on, or who keeps knocking over the neighborhood mailbox. But the truly devout often give up much more for their service to The Weaver. [[Threadwalker|Threadwalkers]] , as they are called, will often trade secrets for services from the church. Services include, but are not limited to protection, sanctuary, divination, absolvment of sins, and use of any skills the cleric may possess. The most devout will often give up a piece of themselves, such as one of their senses, for the secrets of the cosmos. Threadwalkers also often become explorers, searching for ancient knowledge that they may use for themselves, or trade to their patron for secrets of the cosmos. Sometimes these secrets drive the followers mad, for some things no mortal should see...
 
 ***
->"They walk a barely visible path in search of secrets, chasing threads." 
+>"They walk a barely visible path in search of secrets. 'chasing threads'." 
 \-- Coriander Pagefellow, Curator of Tinewall Library
 ***
 

@@ -1,0 +1,1 @@
+Geneva, the first and only mayor of [[Righold]]. An ancient and grizled old elven woman who has always had sole control over the matters involving the settlement that has become [[Righold]]. It's said she was once a fearsome and cuthroat pirate queen, and that her and her crew were already on the shores of [[Daş Koyu]] when [[The Shattering Of The World|the shattering]] occured.

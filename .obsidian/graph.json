@@ -1,22 +1,37 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Locations/Regions/Worldhaven",
+      "color": {
+        "a": 1,
+        "rgb": 4280776
+      }
+    },
+    {
+      "query": "path:Gods",
+      "color": {
+        "a": 1,
+        "rgb": 16759552
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.2,
-  "nodeSizeMultiplier": 1.14700854700855,
-  "lineSizeMultiplier": 0.560683760683761,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.13994500229225068,
-  "close": true
+  "textFadeMultiplier": -1.9,
+  "nodeSizeMultiplier": 1.50875,
+  "lineSizeMultiplier": 0.926875,
+  "collapse-forces": false,
+  "centerStrength": 0.50625,
+  "repelStrength": 19.375,
+  "linkStrength": 0.85625,
+  "linkDistance": 500,
+  "scale": 0.09585637078991475,
+  "close": false
 }

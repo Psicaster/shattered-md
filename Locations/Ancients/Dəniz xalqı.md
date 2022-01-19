@@ -1,0 +1,4 @@
+**Pronounced: Duh-neez Zhal-Ki**
+Azerbaijani
+
+Before [[The Shattering Of The World]], an ancient civilization had inhabited the southeastern parts of [[Worldhaven]]. The [[Archerian Empire]] has settled in part of this territory, having turned the decimated ruins of [[Dəniz xalqı]]'s former capital into [[Tinewall]]. Very little is currently known about them, as their language is difficult to translate, and the ruins that have been in [[Worldhaven]] have not survived the process of settling, nor the test of time. However, it's said there many ruins out there that are in better shape. A few have been found, but exploration of these ruins seem to be a dangerous affair. Not much has been gleaned from the village ruins that surround the primary temple of each city that has been found, but it deems the [[Dəniz xalqı]] really valued their puzzles and tests. 
