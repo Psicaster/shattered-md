@@ -1,0 +1,5 @@
+[[Koldack Grimforge - The Hullbreaker]]
+[[Orison Blackmoon - The Stormbringer]]
+[[Glorindal  - Wrath of the Red Mist]]
+[[Victoria Vetillon - The Siren]]
+[[Thoridan Stormdragon]]

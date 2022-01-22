@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 16759552
       }
+    },
+    {
+      "query": "path:Characters/Players",
+      "color": {
+        "a": 1,
+        "rgb": 327424
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 19.375,
   "linkStrength": 0.85625,
   "linkDistance": 500,
-  "scale": 0.09585637078991475,
-  "close": false
+  "scale": 0.1683598579592727,
+  "close": true
 }
