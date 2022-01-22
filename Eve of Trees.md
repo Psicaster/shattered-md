@@ -1,0 +1,1 @@
+Stories tell of an evil troll, [[Grynla]], who comes down from the mountains near [[Hogsmead]] every year, and terrorizes children. The Eve of Trees is the hanging of lanterns on the trees near the village, and on every house, to deter [[Grynla]]. This worked every year until one year she came to the orphanage, and was defeated by the children.

@@ -41,10 +41,10 @@
   --accent-5-muted: #ff5555;
   --accent-6-muted: #bd93f9;
 
-  --background-primary: #2b213a;
-  --background-primary-alt: #171520;
-  --background-secondary: #1a1836;
-  --background-secondary-alt: #242043;
+  --background-primary: #120f18;
+  --background-primary-alt: #0e0d13;
+  --background-secondary: #100f1d;
+  --background-secondary-alt: #161424;
 
   --text-accent: #FF1690;
   --text-accent-hover: #7a6ae6;
@@ -404,7 +404,6 @@ button.mod-warning {
   * simply remove the `/*` below a subsection to enable it **/
 
 /* 6.1. Pentile effect (chunky pixels) */
-/* DELETE THIS LINE TO ENABLE
 .app-container::before {
   content: " ";
   display: block;
@@ -460,7 +459,7 @@ button.mod-warning {
 }
 
 /* 6.3. Text blur effect */
-/* DELETE THIS LINE TO ENABLE
+/* DELETE TO ACTIVATE
 .app-container {
   text-shadow: 0.08084290417898504px 0 1px rgba(0,30,255,0.5), -0.08084290417898504px 0 1px rgba(255,0,80,0.3), 0 0 3px;
   animation: textShadow 1.6s infinite;

@@ -12,18 +12,11 @@ That night, while everyone was sleeping Brin felt a calling. Something unknown u
 
 Brin had somehow managed to survive the crash, and was found by a passing farmer. He was taken in by the farmer and his wife for a few years. He was taught the power of hard work and passion in your art. The farmer was a follower of [[The Fool]], and his art was the working of the land. He never displayed any magic from his devotion, but the land was always good to him, as was [[The Fool]]. 
 
-Unfortuantely, these kind folks had passed unexpectedly. Brin was found and taken to the Orphanage in [[Hogsmead]] where he was well cared for by the headmistress. That is, until that fateful [[eve of trees]] when she passed, and was replaced by the horrid Ms. Primsit. He and the other children lived in fear and agony for a full year before they took their vengance on that horrid monster of a woman. No one even batted an eye when they stood by the fountain with her head, screaming of their victory.
+Unfortuantely, these kind folks had passed unexpectedly. Brin was found and taken to the Orphanage in [[Hogsmead]] where he was well cared for by the headmistress. That is, until that fateful [[Eve of Trees]] when she passed, and was replaced by the horrid Ms. Primsit. He and the other children lived in fear and agony for a full year before they took their vengance on that horrid monster of a woman. No one even batted an eye when they stood by the fountain with her head, screaming of their victory.
 
 
-Created in an [[Illithid]] "Cattle Farm" for labor. Eventually escaped. Crash landed on planet. Hung out with old man. Was tought to follow [[The Fool]]. Was given a ring of golden bells that are a little warm to the touch. He's not sure what they are, but that's okay. They channel the power of [[The Fool]]. He became a [[Musewalker]] when he became passionate about his art (Whatever that is...), and traveled some with the [[Muse of Tinewall (Name Pending)|old man]]. He has been to the following places: 
 
-```
-At a very young age, Colm Corbec was another Tiefling who was like a father figure to me. He protected me where he could in the slave pits from those who would take advantage of me and taught me how to take care of myself. He is the one who set me on my path with The Fool.
-
-One day, Corbec told me about an escape he had been devising, one that took a few hands. He introduced me to Ceglan Varl, a prankster and jokester who constantly found himself in trouble but somehow always skated by alive. A loud mouth show off, but with a good heart. There were also the Twins, Oan Mkoll and MkVenner, or Ven. Never did get his first name, Ven sort of scared me. Both were highly skilled at sneaking where they needed, usually getting extra food for those who had been ordered without. They were quiet and dedicated to Corbec who had set them on the path that helped save others. Then there was Elim Rawne. One of the gangers who ran a group that extorted others, the group needed a little Muscle. He always scared me the most, as if I should always watch my back around him. After a dirty scuff up, Rawne was left powerless and without friends and decided this little plan was just up his alley. One night, with the Twins' help, we all snuck through the guards and eventually escaped with one of the many ships that would allow us to ply our way through the Astral Sea. With no way of truly knowing how to operate it or where we were going, we eventually crashed into the world we now find ourselves in, but being separated in the quite violent crash. I haven't heard from them since, though I have been looking for them all. Even Rawne. But especially Corbec, he had instilled within me the desire to see our people free and with their own destiny to grasp. While I build my pirate fleet, I try to recruit as many Tieflings as possible because of this.
-```
-
-
+Places he's traveled to with the old man [[Muse of Tinewall (Name Pending)]]
 [[Tinewall]]
 [[Quincy]]
 [[Hogsmead]]

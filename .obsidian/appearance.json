@@ -1,5 +1,6 @@
 {
   "baseFontSize": 16,
-  "translucency": false,
-  "cssTheme": "Cyber Glow"
+  "translucency": true,
+  "cssTheme": "80s Neon",
+  "theme": "obsidian"
 }
