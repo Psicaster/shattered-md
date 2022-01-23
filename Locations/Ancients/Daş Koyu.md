@@ -1,4 +1,4 @@
-**Pronounced: Dash Koyu**
+**Pronounced: Dash Ko-you**
 
 An ancient harbor of the [[Dəniz xalqı]]. Large rusted steel beams stick from the shore like dozens of red boar tusks sticking from the black silty beach. Enough broken and rotted boards remained to tell those that found them this used to be a harbor. And its deep waters seemed perfect to host the incoming rush of large ships containing [[The Migration|the survors]]  of [[The Shattering Of The World|The Shattering]].
 

@@ -7,27 +7,9 @@
         "id": "1fe8c3ce2a99c5eb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Regions/Worldhaven/Hythiel Alliance/Tal Galydra.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "3ea889dfa263ea54"
-      },
-      {
-        "id": "29c6a96f53a83fe1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Regions/Worldhaven/Hythiel Alliance/Tal Galydra.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "3ea889dfa263ea54"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -91,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Regions/Worldhaven/Hythiel Alliance/Tal Galydra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Regions/Worldhaven/Hythiel Alliance/Tal Galydra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,15 +103,15 @@
   },
   "active": "1fe8c3ce2a99c5eb",
   "lastOpenFiles": [
-    "Locations/Regions/Worldhaven/Hythiel Alliance/Tal Galydra.md",
-    "Locations/Regions/Worldhaven/Hythiel Alliance/Sevandir.md",
-    "Locations/Regions/Worldhaven/Hythiel Alliance/Mytalthyr.md",
-    "Locations/Regions/Worldhaven/The Galadryl Market.md",
-    "Quests and Adventures/Getting the Gang back together.md",
-    "Spells/Cleric/Ritual of Sewn Silence.md",
-    "Characters/Muse of Tinewall (Name Pending).md",
-    "Characters/The Cattle.md",
-    "Characters/Storm Dragons.md",
-    "Characters/Geneva 'Shark Bait' Astley.md"
+    "Gods/Clerics/Soulsoother.md",
+    "Spells/Cleric/Level 3/Fortify.md",
+    "Spells/Cleric/Level 2/Resist Fire &  Cold.md",
+    "Gods/Clerics/Stormsoother.md",
+    "Gods/The Traveler.md",
+    "Gods/Clerics/Musewalker.md",
+    "Gods/Clerics/Mother's Hand (Rename Eminent).md",
+    "Gods/The Maiden.md",
+    "Gods/Soul Stone.md",
+    "Gods/The Blind.md"
   ]
 }
