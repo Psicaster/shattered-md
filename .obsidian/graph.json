@@ -4,7 +4,7 @@
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 327424
       }
+    },
+    {
+      "query": "path:Locations/Ancients",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 19.375,
   "linkStrength": 0.85625,
   "linkDistance": 500,
-  "scale": 0.1683598579592727,
+  "scale": 0.04357803939525903,
   "close": true
 }

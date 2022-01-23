@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Players/Brin Milo.md",
+            "file": "Locations/Regions/Worldhaven/Hythiel Alliance/Tal Galydra.md",
             "mode": "source",
             "source": false
           }
@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Players/Brin Milo.md",
-            "mode": "preview",
+            "file": "Locations/Regions/Worldhaven/Hythiel Alliance/Tal Galydra.md",
+            "mode": "source",
             "source": false
           }
         },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Players/Brin Milo.md",
+                "file": "Locations/Regions/Worldhaven/Hythiel Alliance/Tal Galydra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Players/Brin Milo.md",
+                "file": "Locations/Regions/Worldhaven/Hythiel Alliance/Tal Galydra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,15 +123,15 @@
   },
   "active": "1fe8c3ce2a99c5eb",
   "lastOpenFiles": [
-    "Characters/Players/Brin Milo.md",
-    "Characters/Players/Thoridan Stormdragon.md",
-    "Characters/Players/Sybuk.md",
-    "Eve of Trees.md",
-    "Characters/Players/Mord.md",
-    "Colm Corbec.md",
-    "The Cattle.md",
-    "Muse of Tinewall (Name Pending).md",
-    "The Galadryl Market.md",
-    "Hogsmead.md"
+    "Locations/Regions/Worldhaven/Hythiel Alliance/Tal Galydra.md",
+    "Locations/Regions/Worldhaven/Hythiel Alliance/Sevandir.md",
+    "Locations/Regions/Worldhaven/Hythiel Alliance/Mytalthyr.md",
+    "Locations/Regions/Worldhaven/The Galadryl Market.md",
+    "Quests and Adventures/Getting the Gang back together.md",
+    "Spells/Cleric/Ritual of Sewn Silence.md",
+    "Characters/Muse of Tinewall (Name Pending).md",
+    "Characters/The Cattle.md",
+    "Characters/Storm Dragons.md",
+    "Characters/Geneva 'Shark Bait' Astley.md"
   ]
 }
