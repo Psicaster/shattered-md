@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1fe8c3ce2a99c5eb",
+        "id": "b3d23f13553113df",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Gods/Clerics/Truthseeker.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gods/Clerics/Truthseeker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gods/Clerics/Truthseeker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1fe8c3ce2a99c5eb",
+  "active": "b3d23f13553113df",
   "lastOpenFiles": [
+    "Gods/Clerics/Truthseeker.md",
+    "Gods/Clerics/Threadwalker.md",
+    "Gods/Clerics/Stormsinger.md",
     "Gods/Clerics/Soulsoother.md",
-    "Spells/Cleric/Level 3/Fortify.md",
-    "Spells/Cleric/Level 2/Resist Fire &  Cold.md",
-    "Gods/Clerics/Stormsoother.md",
-    "Gods/The Traveler.md",
     "Gods/Clerics/Musewalker.md",
-    "Gods/Clerics/Mother's Hand (Rename Eminent).md",
-    "Gods/The Maiden.md",
-    "Gods/Soul Stone.md",
-    "Gods/The Blind.md"
+    "Gods/Clerics/Maidensbloom.md",
+    "Gods/Clerics/Cleric Abilities/Soulsoother/Speech of the Triad.md",
+    "Traveler's Candle.md",
+    "Gods/Clerics/Cleric Abilities/Soulsoother/Impending Permission.md",
+    "Gods/Clerics/Cleric Abilities/Soulsoother/Intonement of Kibeth.md"
   ]
 }

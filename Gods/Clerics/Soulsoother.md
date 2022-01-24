@@ -13,17 +13,16 @@ Though not a a holy symbol in the traditional sense, all Soulsoothers carry a se
 Soulsoothers gain the following benefits:
 
 -   Soulsoothers do not turn undead in the traditional sense. The bells they carry as holy symbols have various effects on the dead.
+	-   [[Chime of Ranna]] Any Soulsoother may turn undead using the first bell.
+	-   [[Intonement of Kibeth]] At 4th level, Soulsoothers may command up to their cleric level in HD of undead using the second bell. These commands must be simple, similar to the command spell, unless the undead is intelligent. Intelligent undead may make a save vs spell to resist.
+	-   [[Voice of Kyraneth]] At 7th level, Soulsoothers may fear the undead using the third bell.
+	-   [[Dominion of Astarael]] At 12th level, Soulsoothers may dominate the undead to their will using the fourth bell.
+	* [[Harmonious Tones]] At 15th level, Soulsoothers may user two of these bells in conjunction to produce combined effects.
+	*  [[Speech of the Triad]] At 18ths level, the Soulsoother has mastered the use of three simultaneous bells.
 
--   Any Soulsoother may turn undead using the first bell
-	-   At 4th level, Soulsoothers may command up to their cleric level in HD of undead using the second bell. These commands must be simple, similar to the command spell, unless the undead is intelligent. Intelligent undead may make a save vs spell to resist.
-	-   At 7th level, Soulsoothers may fear the undead using the third bell.
-	-   At 12th level, Soulsoothers may dominate the undead to their will using the fourth bell.
-	* At 15th level, Soulsoothers may user two of these bells in conjunction to produce combined effects.
-	*  At 18ths level, the Soulsoother has mastered the use of three simultaneous bells.
-
--   At 3rd level, Soulsoothers gain the ability to cast [[Darkness]] 1/day.
--   At 7th level, Soulsoothers are always under the effects of Invisibility to Undead. This cannot be seen through by most undead, though some exceptions may occur. This ability can also be seen through with True Seeing, or similar means.
--   At 12th level, Soulsoothers gain the ability to speak with dead at will.
+-   [[Obscured Path]] At 3rd level, Soulsoothers gain the ability to cast [[Darkness]] 1/day.
+-  [[Cloak of Night]] At 7th level, Soulsoothers are always under the effects of Invisibility to Undead. This cannot be seen through by most undead, though some exceptions may occur. This ability can also be seen through with True Seeing, or similar means.
+-  [[Tongue of The Traveler]] At 12th level, Soulsoothers gain the ability to speak with dead at will.
 
 ### Domain Spells
 

@@ -6,7 +6,7 @@ Many, if not most, believe that the  [[The Weaver|Weaver's Cloth]] is the holy s
 
 ### Class Features
 Threadwalkers gain the following abilities:
-- [[Threadbare Channeling]]: Threadwalkers can channel the power of [[The Weaver]] to Turn or Rebuke undead
+- [[Woven Channel]]: Threadwalkers can channel the power of [[The Weaver]] to Turn or Rebuke undead
 - Threadwalkers can perform a  [[Ritual of Sewn Silence]] to bind others to secrecy in matters they deem important. (See spell description)
 - [[Woven Secrets]]: At Third level, the Threadwalker begins to unlock the secrets of the Arcane, and can begin memorizing and casting Wizard spells as a wizard three levels lower than their current wizard level (Minimum 1)
 - [[Loom of Secrets]]: At 7th level the Threadwalker can cast [[Zone of Truth]], [[Detect Lie]] and [[Detect Magic]] each 2/day. These abilities are used in the Threadwalker's line of duty to uncover secrets.

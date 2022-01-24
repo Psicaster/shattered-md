@@ -21,3 +21,6 @@ The crimes that are weighed when a soul reaches the end of its journey are not t
 #### Appearances
 
 The Blind is often depicted as a tall, broad shouldered man roughly in his 40's. He wears a brestplate and pauldrons with a golden hue, and wields a similarly colored longsword in his right hand. In his left, is the symbol of The Blind, a golden scale used to weigh the soul against its crimes.
+
+_**Major Domains:** Protection, Divination, Elemental (Fire), Summoning_  
+_**Minor Domains:** Sun, Guardian_

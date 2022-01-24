@@ -1,19 +1,12 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "path:Locations/Regions/Worldhaven",
-      "color": {
-        "a": 1,
-        "rgb": 4280776
-      }
-    },
     {
       "query": "path:Gods",
       "color": {
@@ -34,18 +27,32 @@
         "a": 1,
         "rgb": 16711680
       }
+    },
+    {
+      "query": "path:Spells/Cleric",
+      "color": {
+        "a": 1,
+        "rgb": 65518
+      }
+    },
+    {
+      "query": "path:Spells/Wizard",
+      "color": {
+        "a": 1,
+        "rgb": 16743168
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.9,
+  "textFadeMultiplier": -1.5,
   "nodeSizeMultiplier": 1.50875,
-  "lineSizeMultiplier": 0.926875,
+  "lineSizeMultiplier": 0.791764705882353,
   "collapse-forces": false,
-  "centerStrength": 0.50625,
-  "repelStrength": 19.375,
-  "linkStrength": 0.85625,
-  "linkDistance": 500,
-  "scale": 0.06109566595076639,
-  "close": true
+  "centerStrength": 0.547058823529412,
+  "repelStrength": 20,
+  "linkStrength": 0.747058823529412,
+  "linkDistance": 251,
+  "scale": 0.07886425956192382,
+  "close": false
 }

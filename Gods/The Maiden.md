@@ -14,3 +14,9 @@ The Maiden is often portrayed as a broad shouldered woman of roughly 30. She has
 
 #### Nature
 While The Maiden is considered the goddess of nature, she often favors the workings of man over the workings of nature itself. Nature has its own protector in the form of The Whispering Spirit, a deer-like entity worshiped by the elves. As such, for the sake of balance, The Maiden does not offer protection to nature itself, so much as offers the use of nature as a tool.
+
+* ## Domain Spells
+	* ### Major Domains
+		* Guardian, Healing, Plant, Elemental(Earth), Animal
+	* **Minor Domains**
+		* Elemental (Fire), Elemental (Water), Creation, Divination, Protection
