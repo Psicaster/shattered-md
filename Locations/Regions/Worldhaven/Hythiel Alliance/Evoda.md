@@ -1,0 +1,1 @@
+Costal town of the [[Hythiel Alliance]]. Mainly host to the [[Hythiel Navy]] as well as commercial trade.

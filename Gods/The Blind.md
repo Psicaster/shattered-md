@@ -1,6 +1,6 @@
 ### God of Truth and Justice
 
-The blind god of Truth and Justice. He sits at the end of the soul's journey across the Astral Plane, and judges its crimes. If the soul fails its trial, The Weaver knits it back into the fabric, and it is reincarnated. If they succeed, the soul is allowed to continue to the end. The Blind is considered the mightiest of the gods, and can be wrathful if tested.
+The blind god of Truth and Justice. He sits at the end of the soul's journey across the Astral Plane, and judges its crimes. If the soul fails its trial, [[The Weaver]] knits it back into the fabric, and it is reincarnated. If they succeed, the soul is allowed to continue to the end. The Blind is considered the mightiest of the gods, and can be wrathful if tested.
 
 #### Holy Symbol
 
@@ -8,11 +8,11 @@ The holy symbol of The Blind is a small golden scale. One side holds a heart tha
 
 #### Followers
 
-Followers of The Blind, known as Truthseekers tend to be strong willed, and have a passion for the truth. They are iron willed, and as such must have a higher wisdom than any other clerics of the pantheon (Wisdom 15). Their duties bring them all over the known world as arbitrators, mediators and judges. Impartiality in the course of duty is key to being a Truthseeker. They must, and do, put aside all their personal knowledge and feelings. Truthseekers enter a state of divine channeling when they are making judgments that removes emotions and all memories of anything but the facts that were presented to them.
+Followers of The Blind, known as [[Truthseeker|Truthseekers]] tend to be strong willed, and have a passion for the truth. They are iron willed, and as such must have a higher wisdom than any other clerics of the pantheon (Wisdom 15). Their duties bring them all over the known world as arbitrators, mediators and judges. Impartiality in the course of duty is key to being a Truthseeker. They must, and do, put aside all their personal knowledge and feelings. Truthseekers enter a state of divine channeling when they are making judgments that removes emotions and all memories of anything but the facts that were presented to them.
 
 #### The Trial State
 
-Truthseekers don't talk much about The Trial State, but some things are known to the public. The state does seem to take a lot out of the priest, both physically and mentally. Judgments made while in The Trial State are absolute, and are considered to be made on behalf of The Blind.
+[[Truthseeker|Truthseekers]] don't talk much about [[The Trial State]], but some things are known to the public. The state does seem to take a lot out of the priest, both physically and mentally. Judgments made while in [[The Trial State]] are absolute, and are considered to be made on behalf of The Blind.
 
 #### Crimes After Death
 

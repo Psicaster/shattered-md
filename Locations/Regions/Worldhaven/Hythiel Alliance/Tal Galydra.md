@@ -1,0 +1,1 @@
+The remote city of the [[Hythiel Alliance]] where the [[Hythiel Academy of Magic]] is housed.

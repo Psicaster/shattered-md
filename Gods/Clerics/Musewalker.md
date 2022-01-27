@@ -1,3 +1,4 @@
+# Musewalker
 The most devout priests of [[The Fool]] are often referred to as "[[Musewalker|Musewalkers]]" or "[[Musewalker|Mirthbringers]]". They often wear bright colors and elaborate costumes, though there is no dresscode for the followers of [[The Fool]]. They love all who pray to them. [[Musewalker|Musewalkers]] are often friendly, charasmatic folk with lofty goals, whether it be world domination, or writing the most beautiful poem the world has ever known. Truly the possibilities are endless.
 
 #### Holy Symbol

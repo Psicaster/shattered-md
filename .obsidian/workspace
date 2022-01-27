@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gods/Clerics/Truthseeker.md",
+            "file": "Characters/Players/Koda.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods/Clerics/Truthseeker.md",
+                "file": "Characters/Players/Koda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods/Clerics/Truthseeker.md",
+                "file": "Characters/Players/Koda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,15 +109,15 @@
   },
   "active": "b3d23f13553113df",
   "lastOpenFiles": [
-    "Gods/Clerics/Truthseeker.md",
-    "Gods/Clerics/Threadwalker.md",
-    "Gods/Clerics/Stormsinger.md",
-    "Gods/Clerics/Soulsoother.md",
-    "Gods/Clerics/Musewalker.md",
-    "Gods/Clerics/Maidensbloom.md",
-    "Gods/Clerics/Cleric Abilities/Soulsoother/Speech of the Triad.md",
-    "Traveler's Candle.md",
-    "Gods/Clerics/Cleric Abilities/Soulsoother/Impending Permission.md",
-    "Gods/Clerics/Cleric Abilities/Soulsoother/Intonement of Kibeth.md"
+    "Characters/Players/Koda.md",
+    "Locations/Regions/Worldhaven/Hythiel Alliance/Hythiel Academy of Magic.md",
+    "Locations/Regions/Worldhaven/Hythiel Alliance/Evoda.md",
+    "Locations/Regions/Worldhaven/Hythiel Alliance/Mytalthyr.md",
+    "Locations/Regions/Worldhaven/Hythiel Alliance/Sevandir.md",
+    "Locations/Regions/Worldhaven/Hythiel Alliance/Tal Galydra.md",
+    "Locations/Regions/Worldhaven/Hythiel Alliance/Tel Migdayim.md",
+    "Maps/Worldhaven_Map.jpg",
+    "Maps/Shattered_World.jpg",
+    "Characters/Players/Brin Milo.md"
   ]
 }
