@@ -23,3 +23,5 @@ And finally... She grabbed the book. And there it was. The face of The Weaver st
 [[Koda]] awoke the next morning in her bed. The headmaster himself, [[Ichi Kazakata]], was standing over her bed. "You are no longer welcome at this academy." was all he said. She was given the chance to gather what little she had, and was immediately put on the first boat to [[Tel Migdayim]]. 
 
 When she arrived at [[Tel Migdayim]], [[Koda]] immediately hopped onto the next ship to the mainland. She took shelter in [[Waterhaven]] for a brief time. She spent time with the monks and [[Threadwalker|Threadwalkers]] in the temple of [[The Weaver]], trying to understand the boon she was given. All she knows is there is a spell in her mind that will likely kill her if she were to cast it now. The [[Threadwalker|Threadwalkers]] have told her she needs to have faith that [[The Weaver]] knows what she was doing.
+
+Her journey did not end there, however. She traveled to Tinewall, the capital of the [[Archerian Empire]]. 
